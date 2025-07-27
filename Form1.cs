@@ -521,7 +521,7 @@ namespace WizardGame
             //    FlagRun = 1;
             FlagRun = 1;
         }
-
+        // hi ih hi
         void SwordAttackOne()
         {
             FlagSwordOne = 1;
