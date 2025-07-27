@@ -460,6 +460,7 @@ namespace WizardGame
                 }
             }
         }//ChangeSpeed
+        //try to see commits all
         void ActivateGenie()
         {
             genie_callct++;
