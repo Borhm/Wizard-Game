@@ -1,0 +1,70 @@
+C:\Users\ihema\source\repos\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.AssemblyReference.cache
+C:\Users\ihema\source\repos\WizardGame\WizardGame\obj\Debug\WizardGame.Properties.Resources.resources
+C:\Users\ihema\source\repos\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.GenerateResource.cache
+C:\Users\ihema\source\repos\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.CoreCompileInputs.cache
+C:\Users\ihema\source\repos\WizardGame\WizardGame\bin\Debug\WizardGame.exe.config
+C:\Users\ihema\source\repos\WizardGame\WizardGame\bin\Debug\WizardGame.exe
+C:\Users\ihema\source\repos\WizardGame\WizardGame\bin\Debug\WizardGame.pdb
+C:\Users\ihema\source\repos\WizardGame\WizardGame\obj\Debug\WizardGame.exe
+C:\Users\ihema\source\repos\WizardGame\WizardGame\obj\Debug\WizardGame.pdb
+C:\Users\ihema\source\repos\WizardGame\WizardGame\obj\Debug\WizardGame.advimg.resources
+C:\Users\ihema\Downloads\WizardGame (3)\WizardGame\WizardGame\bin\Debug\WizardGame.exe.config
+C:\Users\ihema\Downloads\WizardGame (3)\WizardGame\WizardGame\bin\Debug\WizardGame.exe
+C:\Users\ihema\Downloads\WizardGame (3)\WizardGame\WizardGame\bin\Debug\WizardGame.pdb
+C:\Users\ihema\Downloads\WizardGame (3)\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.AssemblyReference.cache
+C:\Users\ihema\Downloads\WizardGame (3)\WizardGame\WizardGame\obj\Debug\WizardGame.advimg.resources
+C:\Users\ihema\Downloads\WizardGame (3)\WizardGame\WizardGame\obj\Debug\WizardGame.Properties.Resources.resources
+C:\Users\ihema\Downloads\WizardGame (3)\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.GenerateResource.cache
+C:\Users\ihema\Downloads\WizardGame (3)\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.CoreCompileInputs.cache
+C:\Users\ihema\Downloads\WizardGame (3)\WizardGame\WizardGame\obj\Debug\WizardGame.exe
+C:\Users\ihema\Downloads\WizardGame (3)\WizardGame\WizardGame\obj\Debug\WizardGame.pdb
+C:\Users\asus\Downloads\WizardGame\WizardGame\WizardGame\bin\Debug\WizardGame.exe.config
+C:\Users\asus\Downloads\WizardGame\WizardGame\WizardGame\bin\Debug\WizardGame.exe
+C:\Users\asus\Downloads\WizardGame\WizardGame\WizardGame\bin\Debug\WizardGame.pdb
+C:\Users\asus\Downloads\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.advimg.resources
+C:\Users\asus\Downloads\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.Properties.Resources.resources
+C:\Users\asus\Downloads\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.exe
+C:\Users\asus\Downloads\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.pdb
+C:\Users\ihema\Downloads\WizardGame (4)\WizardGame\WizardGame\WizardGame\bin\Debug\WizardGame.exe.config
+C:\Users\ihema\Downloads\WizardGame (4)\WizardGame\WizardGame\WizardGame\bin\Debug\WizardGame.exe
+C:\Users\ihema\Downloads\WizardGame (4)\WizardGame\WizardGame\WizardGame\bin\Debug\WizardGame.pdb
+C:\Users\ihema\Downloads\WizardGame (4)\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.AssemblyReference.cache
+C:\Users\ihema\Downloads\WizardGame (4)\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.Properties.Resources.resources
+C:\Users\ihema\Downloads\WizardGame (4)\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.GenerateResource.cache
+C:\Users\ihema\Downloads\WizardGame (4)\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.CoreCompileInputs.cache
+C:\Users\ihema\Downloads\WizardGame (4)\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.exe
+C:\Users\ihema\Downloads\WizardGame (4)\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.pdb
+C:\Users\ihema\Downloads\WizardGame (4)\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.AdvImageHero.resources
+C:\Users\ihema\Downloads\WizardGame (4) (3)\WizardGame (4)\WizardGame\WizardGame\WizardGame\bin\Debug\WizardGame.exe.config
+C:\Users\ihema\Downloads\WizardGame (4) (3)\WizardGame (4)\WizardGame\WizardGame\WizardGame\bin\Debug\WizardGame.exe
+C:\Users\ihema\Downloads\WizardGame (4) (3)\WizardGame (4)\WizardGame\WizardGame\WizardGame\bin\Debug\WizardGame.pdb
+C:\Users\ihema\Downloads\WizardGame (4) (3)\WizardGame (4)\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.AssemblyReference.cache
+C:\Users\ihema\Downloads\WizardGame (4) (3)\WizardGame (4)\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.Properties.Resources.resources
+C:\Users\ihema\Downloads\WizardGame (4) (3)\WizardGame (4)\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.GenerateResource.cache
+C:\Users\ihema\Downloads\WizardGame (4) (3)\WizardGame (4)\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.CoreCompileInputs.cache
+C:\Users\ihema\Downloads\WizardGame (4) (3)\WizardGame (4)\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.exe
+C:\Users\ihema\Downloads\WizardGame (4) (3)\WizardGame (4)\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.pdb
+C:\Users\ihema\Downloads\WizardGame (4) (3)\WizardGame (4)\WizardGame\WizardGame\WizardGame\obj\Debug\WizardGame.Circles.resources
+C:\Users\ihema\Downloads\WizardGame (5)\WizardGame\WizardGame\bin\Debug\WizardGame.exe.config
+C:\Users\ihema\Downloads\WizardGame (5)\WizardGame\WizardGame\bin\Debug\WizardGame.exe
+C:\Users\ihema\Downloads\WizardGame (5)\WizardGame\WizardGame\bin\Debug\WizardGame.pdb
+C:\Users\ihema\Downloads\WizardGame (5)\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.AssemblyReference.cache
+C:\Users\ihema\Downloads\WizardGame (5)\WizardGame\WizardGame\obj\Debug\WizardGame.Circles.resources
+C:\Users\ihema\Downloads\WizardGame (5)\WizardGame\WizardGame\obj\Debug\WizardGame.Properties.Resources.resources
+C:\Users\ihema\Downloads\WizardGame (5)\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.GenerateResource.cache
+C:\Users\ihema\Downloads\WizardGame (5)\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.CoreCompileInputs.cache
+C:\Users\ihema\Downloads\WizardGame (5)\WizardGame\WizardGame\obj\Debug\WizardGame.exe
+C:\Users\ihema\Downloads\WizardGame (5)\WizardGame\WizardGame\obj\Debug\WizardGame.pdb
+C:\Users\asus\Downloads\WizardGame (5) (1)\WizardGame (5)\WizardGame\WizardGame\bin\Debug\WizardGame.exe.config
+C:\Users\asus\Downloads\WizardGame (5) (1)\WizardGame (5)\WizardGame\WizardGame\bin\Debug\WizardGame.exe
+C:\Users\asus\Downloads\WizardGame (5) (1)\WizardGame (5)\WizardGame\WizardGame\bin\Debug\WizardGame.pdb
+C:\Users\asus\Downloads\WizardGame (5) (1)\WizardGame (5)\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\WizardGame (5) (1)\WizardGame (5)\WizardGame\WizardGame\obj\Debug\WizardGame.Circles.resources
+C:\Users\asus\Downloads\WizardGame (5) (1)\WizardGame (5)\WizardGame\WizardGame\obj\Debug\WizardGame.Properties.Resources.resources
+C:\Users\asus\Downloads\WizardGame (5) (1)\WizardGame (5)\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\WizardGame (5) (1)\WizardGame (5)\WizardGame\WizardGame\obj\Debug\WizardGame.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\WizardGame (5) (1)\WizardGame (5)\WizardGame\WizardGame\obj\Debug\WizardGame.exe
+C:\Users\asus\Downloads\WizardGame (5) (1)\WizardGame (5)\WizardGame\WizardGame\obj\Debug\WizardGame.pdb
