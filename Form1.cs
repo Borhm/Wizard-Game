@@ -666,6 +666,7 @@ namespace WizardGame
         }
         void CreateThor()
         {
+            //githup
             Size fixedSize = new Size(256, 256); // الحجم الثابت اللي هنوصله لكل صورة
 
             for (int i = 0; i < 15; i++)
